@@ -8,16 +8,16 @@ public class Application01 {
 //        a.testSimpleIfStatement();
 //        a.testNestedIfStatement();
 
-//        B_ifElse b = new B_ifElse();
-//        b.testSimpleIfElseStatement();
+        B_ifElse b = new B_ifElse();
+//          b.testSimpleIfElseStatement();
 //        b.testNestedIfElseStatement();
 
-//        C_ifElself c = new C_ifElself();
-//        c.testSimpleIfElseIfStatement();
+        C_ifElself c = new C_ifElself();
+        c.testSimpleIfElseIfStatement();
 
         D_switch d = new D_switch();
 //        d.testSimpleSwitchStatement();
-        d.testSwitchVendingMachine();
+//        d.testSwitchVendingMachine();
 
     }
 

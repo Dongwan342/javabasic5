@@ -48,6 +48,21 @@ public class C_ifElself {
 
         System.out.println("그렇게 산신령은 다시 연못 속으로 사라졌다...");
 
+        System.out.println("어느 나라에 가야하지?");
+        System.out.println("맛있는 거 먹고 싶은데");
+        System.out.println("밀크티가 유명한 나라들로 목록을 뽑아볼까?");
+        System.out.print("어디로 갈까요? (1. 홍콩 2. 영국 3. 인도 4. 대만) : ");
+        Scanner sc2 = new Scanner(System.in);
+        int answer2 = sc2.nextInt();
+        if(answer2 == 1)
+            System.out.println("홍콩은 스타킹 밀크티라고 진하면서 시큼한 맛이 난대");
+        else if(answer2 ==2)
+            System.out.println("영국은 달콤하고 향이 강해서 라떼류 좋아하면 여기로!");
+        else if(answer2 ==3)
+            System.out.println("인도는 향신료가 워낙 많아서 마살라 티 같은 것도 마시면 좋을걸?");
+        else if(answer2 ==4)
+        System.out.println("대만은 여러가지 맛의 밀크티가 많고 싸서 골라마시는 재미가 있지롱!");
+
 
     }
 

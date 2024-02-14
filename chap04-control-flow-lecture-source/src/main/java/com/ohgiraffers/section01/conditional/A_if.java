@@ -36,6 +36,7 @@ public class A_if {
 
             if(num2 % 2 == 0){  //num2를 나눈 게 짝수가 될 때 0, 2, 4...
                 System.out.println ("입력하신 숫자는 짝수입니다");
+
             }
 
         }
