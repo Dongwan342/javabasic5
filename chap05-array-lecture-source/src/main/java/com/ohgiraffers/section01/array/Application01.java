@@ -123,7 +123,10 @@ public class Application01 {
         for(int i = 0; i < sarr.length; i++) {
 
             System.out.println("sarr[" + i + "]" + " = " + sarr[i]);
+
+
+            }
         }
 
     }
-}
+

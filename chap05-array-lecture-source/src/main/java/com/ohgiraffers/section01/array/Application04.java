@@ -36,5 +36,7 @@ public class Application04 {
         System.out.println("avg : " + avg);
 
 
+
+
     }
 }
